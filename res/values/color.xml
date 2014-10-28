@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <drawable name="default_color">#9BA0FF</drawable>
+    <drawable name="btn_blue_click">#9B30FF</drawable>
+    <drawable name="btn_blue">#9BA0FF</drawable>
+    <drawable name="default_white_drawable">#cccccc</drawable>
+    
+    <color name="text_white">#FFFFFF</color>
+    <color name="text_black">#222222</color>
+    <color name="text_gray">#888888</color>
+    <color name="text_red">#aa0000</color>
+    <color name="text_blue">#7cb6ff</color>
+    <color name="cc_half_black">#a0111111</color>
+    <drawable name="half_black">#80222222</drawable>
+    <!-- <drawable name="btn_gray">#888888</drawable> -->
+    <drawable name="default_background">#eeeeee</drawable>
+    <drawable name="default_bottom_background">#f3f3f3</drawable>
+    <drawable name="white_background">#ffffff</drawable>
+    <drawable name="loading_background">#80333333</drawable>
+    
+    <drawable name="sliding_default_drawable">#002e50</drawable>
+    <drawable name="slding_press_drawable">#032642</drawable>
+    <drawable name="default_drawable">#095996</drawable>
+    <drawable name="sliding_light_drawable">#0c79cb</drawable>
+    <drawable name="default_light_drawable">#7cb6ff</drawable>
+    <drawable name="alpha_zero">#00ffffff</drawable>
+    <drawable name="light_blue">#e2f2ff</drawable>
+    <drawable name="light_gray">#f6f7f9</drawable>
+    <drawable name="light_blue_bg">#eff6ff</drawable>
+    <drawable name="light_default_drawable">#7cb6ff</drawable>
+    <drawable name="right_sliding_background_new">#eef7ff</drawable>
+    <drawable name="right_sliding_background_press_new">#ddecff</drawable>
+</resources>
